@@ -2,7 +2,7 @@
 
 ## ▸ About 📖
 
-Welcome to my Github! I'm Ham, or if you prefer, Kittichet Arayasujin. I'm currently a computer engineering student at Chulalongkorn University. Here, you’ll find repos with personal $\LaTeX$ notes on subjects I'm interested in, including (but not limited to) math, physics, and computer science, as well as future coding projects I'll be working on.
+Welcome to my Github! I'm Ham (Kittichet Arayasujin). I'm currently a computer engineering student at Chulalongkorn University. Here, you’ll find repos with personal $\LaTeX$ notes on subjects I'm interested in, including (but not limited to) math, physics, and computer science, as well as future coding projects I'll be working on.
 
 ## ▸ Interests 💡
 
